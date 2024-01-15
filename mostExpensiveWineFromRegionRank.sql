@@ -28,6 +28,3 @@ join province_avg pa 	on pa.province = wd.province
 join no_duplicate nd 	on nd.province = pa.province
 group by 1, 2
 limit 17 
-
-
-/*a weighted average can be used for greater precision*/

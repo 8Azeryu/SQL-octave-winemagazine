@@ -1,6 +1,6 @@
 **GitHub Repository: SQL**-octave-winemagazine
 
-**Description:** This repository contains a SQL query analysis of a wine tasting competition. The main focus of this analysis is about popular manufaturing regions price performence.
+**Description:** This repository contains a SQL query analysis of a wine tasting competition. The main focus of this analysis is on popular manufaturing regions price performence.
 
 Repository Structure:
 

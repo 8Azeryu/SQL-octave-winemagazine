@@ -1,6 +1,6 @@
 /* Which province has the highest average wine price? */
 
-withh
+with
 province_avg as
 	(
 	select
